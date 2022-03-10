@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>无尽之境</title>
+    <link>https://cccccfe.github.io/</link>
+    <description>Recent content on 无尽之境</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-ch</language>
+    <copyright>All rights reserved - 2022</copyright><atom:link href="https://cccccfe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://cccccfe.github.io/post/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cccccfe.github.io/post/1/01/01/</guid>
+      <description>“卷轴上写了什么？” Date: 2022-03-07 Athor: 陈吉安 Description: Arcan
+ //当你看到这篇日志时，说明我的博客搭建成功了！好开心！（虽然没任何技术含量）
+//过年的闲暇时光里在哥哥的推荐下给电脑Manjaro（和Windows并存）。装双系统的过程折磨不堪（不会设计分区和调整主板的设置），装好了之后兴奋了一天然后发现，Linux里面干什么都很反人类，直接血压升高。配置输入法,下载qq,配置环境&amp;hellip;&amp;hellip;脱离了win的用户图形界面，学计算机的大学生和不学计算机的大学生都沉默了。虽然这些困难我摆了很久但是还是在哥哥的指导下一点点给它干碎咯！在这里感谢下我的老哥。
+//关于Linux。诚然，Linux在用熟之前用户体验度甚至不如windous。但我深知要成为一名IT从业者，掌握Linux是入门的基本要求，所以我必须去尝试探索这块未曾踏足的领域。那么关于Linux的好处呢，我就不在里赘述了（网上查得到），如果你还没有试过Linux,那我建议你一定要体验一下，接下来我会写一些关于我装Linux遇到的坑和难题。
+//在这里我会写写我生产的垃圾和见闻，不论有无用途，至少它也能够记录我的生活;当然，如果能为阁下帮上什么忙，在下不胜荣幸！
+//去到符文之地探索吧！看看卷轴（Kernel）上到底写了些什么？
+//“如果我每跑一里地都有一枚符文入手，那我早就不用再跑了&amp;hellip;&amp;hellip;” &amp;mdash;-雷兹</description>
+    </item>
+    
+  </channel>
+</rss>
